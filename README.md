@@ -1,7 +1,7 @@
 # Sex-Chromosome Dosage in the Zebra Finch (Taeniopygia guttata)
 
 **Name:** Mary Rose V. Ferrer
-**Section:** <<B>>
+**Section:** B
 **Course:** Cell and Molecular Biology, individual practical exercise
 
 ## Study question
